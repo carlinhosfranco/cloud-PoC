@@ -1,0 +1,139 @@
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Start in 00:36:46--30/01/2018
+Index
+Host: compute1
+
+Resetting connection after every trial
+Using a perturbation value of 3
+
+Sending output to ./logs/ntp.out
+Send and receive buffers are 16384 and 87380 bytes
+(A bug in Linux doubles the requested buffer sizes)
+Now starting the main loop
+  0:       1 bytes   1000 times -->      0.14 Mbps in      56.10 usec
+  1:       2 bytes   1000 times -->      0.27 Mbps in      55.72 usec
+  2:       3 bytes   1000 times -->      0.41 Mbps in      55.63 usec
+  3:       4 bytes   1000 times -->      0.54 Mbps in      56.16 usec
+  4:       6 bytes   1000 times -->      0.81 Mbps in      56.33 usec
+  5:       8 bytes   1000 times -->      1.10 Mbps in      55.69 usec
+  6:      12 bytes   1000 times -->      1.61 Mbps in      56.87 usec
+  7:      13 bytes   1000 times -->      1.76 Mbps in      56.24 usec
+  8:      16 bytes   1000 times -->      2.15 Mbps in      56.79 usec
+  9:      19 bytes   1000 times -->      2.52 Mbps in      57.49 usec
+ 10:      21 bytes   1000 times -->      2.79 Mbps in      57.41 usec
+ 11:      24 bytes   1000 times -->      3.17 Mbps in      57.84 usec
+ 12:      27 bytes   1000 times -->      3.57 Mbps in      57.63 usec
+ 13:      29 bytes   1000 times -->      3.82 Mbps in      57.87 usec
+ 14:      32 bytes   1000 times -->      4.17 Mbps in      58.55 usec
+ 15:      35 bytes   1000 times -->      4.61 Mbps in      57.98 usec
+ 16:      45 bytes   1000 times -->      5.86 Mbps in      58.55 usec
+ 17:      48 bytes   1000 times -->      6.28 Mbps in      58.34 usec
+ 18:      51 bytes   1000 times -->      6.66 Mbps in      58.46 usec
+ 19:      61 bytes   1000 times -->      7.94 Mbps in      58.58 usec
+ 20:      64 bytes   1000 times -->      8.37 Mbps in      58.35 usec
+ 21:      67 bytes   1000 times -->      8.78 Mbps in      58.25 usec
+ 22:      93 bytes   1000 times -->     11.46 Mbps in      61.92 usec
+ 23:      96 bytes   1000 times -->     11.79 Mbps in      62.13 usec
+ 24:      99 bytes   1000 times -->     12.10 Mbps in      62.40 usec
+ 25:     125 bytes   1000 times -->     15.01 Mbps in      63.51 usec
+ 26:     128 bytes   1000 times -->     15.29 Mbps in      63.87 usec
+ 27:     131 bytes   1000 times -->     14.92 Mbps in      66.99 usec
+ 28:     189 bytes   1000 times -->     21.04 Mbps in      68.53 usec
+ 29:     192 bytes   1000 times -->     21.90 Mbps in      66.88 usec
+ 30:     195 bytes   1000 times -->     22.35 Mbps in      66.58 usec
+ 31:     253 bytes   1000 times -->     28.03 Mbps in      68.85 usec
+ 32:     256 bytes   1000 times -->     28.15 Mbps in      69.37 usec
+ 33:     259 bytes   1000 times -->     28.62 Mbps in      69.05 usec
+ 34:     381 bytes   1000 times -->     39.28 Mbps in      74.00 usec
+ 35:     384 bytes   1000 times -->     39.41 Mbps in      74.34 usec
+ 36:     387 bytes   1000 times -->     39.60 Mbps in      74.57 usec
+ 37:     509 bytes   1000 times -->     48.99 Mbps in      79.26 usec
+ 38:     512 bytes   1000 times -->     49.21 Mbps in      79.37 usec
+ 39:     515 bytes   1000 times -->     49.45 Mbps in      79.46 usec
+ 40:     765 bytes   1000 times -->     64.44 Mbps in      90.57 usec
+ 41:     768 bytes   1000 times -->     64.02 Mbps in      91.53 usec
+ 42:     771 bytes   1000 times -->     60.28 Mbps in      97.58 usec
+ 43:    1021 bytes   1000 times -->     75.29 Mbps in     103.46 usec
+ 44:    1024 bytes   1000 times -->     75.47 Mbps in     103.52 usec
+ 45:    1027 bytes   1000 times -->     75.64 Mbps in     103.59 usec
+ 46:    1533 bytes   1000 times -->     92.20 Mbps in     126.86 usec
+ 47:    1536 bytes   1000 times -->     91.70 Mbps in     127.79 usec
+ 48:    1539 bytes   1000 times -->     91.29 Mbps in     128.62 usec
+ 49:    2045 bytes   1000 times -->    119.30 Mbps in     130.78 usec
+ 50:    2048 bytes   1000 times -->    118.91 Mbps in     131.41 usec
+ 51:    2051 bytes   1000 times -->    119.78 Mbps in     130.64 usec
+ 52:    3069 bytes   1000 times -->    162.59 Mbps in     144.01 usec
+ 53:    3072 bytes   1000 times -->    160.73 Mbps in     145.82 usec
+ 54:    3075 bytes   1000 times -->    160.92 Mbps in     145.79 usec
+ 55:    4093 bytes   1000 times -->    205.08 Mbps in     152.27 usec
+ 56:    4096 bytes   1000 times -->    204.29 Mbps in     152.97 usec
+ 57:    4099 bytes   1000 times -->    202.43 Mbps in     154.49 usec
+ 58:    6141 bytes   1000 times -->    270.73 Mbps in     173.06 usec
+ 59:    6144 bytes   1000 times -->    271.81 Mbps in     172.46 usec
+ 60:    6147 bytes   1000 times -->    270.54 Mbps in     173.35 usec
+ 61:    8189 bytes   1000 times -->    320.37 Mbps in     195.02 usec
+ 62:    8192 bytes   1000 times -->    320.48 Mbps in     195.02 usec
+ 63:    8195 bytes   1000 times -->    320.31 Mbps in     195.19 usec
+ 64:   12285 bytes   1000 times -->    392.06 Mbps in     239.06 usec
+ 65:   12288 bytes   1000 times -->    393.71 Mbps in     238.12 usec
+ 66:   12291 bytes   1000 times -->    394.30 Mbps in     237.82 usec
+ 67:   16381 bytes   1000 times -->    475.63 Mbps in     262.76 usec
+ 68:   16384 bytes   1000 times -->    477.69 Mbps in     261.68 usec
+ 69:   16387 bytes   1000 times -->    474.82 Mbps in     263.31 usec
+ 70:   24573 bytes   1000 times -->    520.93 Mbps in     359.89 usec
+ 71:   24576 bytes   1000 times -->    512.82 Mbps in     365.62 usec
+ 72:   24579 bytes   1000 times -->    513.11 Mbps in     365.46 usec
+ 73:   32765 bytes   1000 times -->    602.54 Mbps in     414.87 usec
+ 74:   32768 bytes   1000 times -->    595.80 Mbps in     419.61 usec
+ 75:   32771 bytes   1000 times -->    602.59 Mbps in     414.91 usec
+ 76:   49149 bytes   1000 times -->    636.19 Mbps in     589.41 usec
+ 77:   49152 bytes   1000 times -->    636.97 Mbps in     588.72 usec
+ 78:   49155 bytes   1000 times -->    636.88 Mbps in     588.84 usec
+ 79:   65533 bytes   1000 times -->    688.41 Mbps in     726.28 usec
+ 80:   65536 bytes   1000 times -->    689.43 Mbps in     725.23 usec
+ 81:   65539 bytes   1000 times -->    688.96 Mbps in     725.77 usec
+ 82:   98301 bytes   1000 times -->    748.94 Mbps in    1001.38 usec
+ 83:   98304 bytes   1000 times -->    745.10 Mbps in    1006.58 usec
+ 84:   98307 bytes   1000 times -->    744.42 Mbps in    1007.52 usec
+ 85:  131069 bytes   1000 times -->    778.10 Mbps in    1285.15 usec
+ 86:  131072 bytes   1000 times -->    775.97 Mbps in    1288.71 usec
+ 87:  131075 bytes   1000 times -->    777.86 Mbps in    1285.61 usec
+ 88:  196605 bytes   1000 times -->    810.65 Mbps in    1850.33 usec
+ 89:  196608 bytes   1000 times -->    810.85 Mbps in    1849.92 usec
+ 90:  196611 bytes   1000 times -->    811.69 Mbps in    1848.03 usec
+ 91:  262141 bytes   1000 times -->    829.49 Mbps in    2411.11 usec
+ 92:  262144 bytes   1000 times -->    829.21 Mbps in    2411.93 usec
+ 93:  262147 bytes   1000 times -->    828.20 Mbps in    2414.89 usec
+ 94:  393213 bytes   1000 times -->    848.80 Mbps in    3534.37 usec
+ 95:  393216 bytes   1000 times -->    848.43 Mbps in    3535.95 usec
+ 96:  393219 bytes   1000 times -->    848.35 Mbps in    3536.32 usec
+ 97:  524285 bytes   1000 times -->    857.46 Mbps in    4664.90 usec
+ 98:  524288 bytes   1000 times -->    857.50 Mbps in    4664.73 usec
+ 99:  524291 bytes   1000 times -->    857.17 Mbps in    4666.55 usec
+100:  786429 bytes   1000 times -->    867.40 Mbps in    6917.16 usec
+101:  786432 bytes   1000 times -->    867.38 Mbps in    6917.36 usec
+102:  786435 bytes   1000 times -->    866.92 Mbps in    6921.06 usec
+103: 1048573 bytes   1000 times -->    871.99 Mbps in    9174.39 usec
+104: 1048576 bytes   1000 times -->    872.19 Mbps in    9172.35 usec
+105: 1048579 bytes   1000 times -->    872.32 Mbps in    9170.93 usec
+106: 1572861 bytes   1000 times -->    877.40 Mbps in   13676.78 usec
+107: 1572864 bytes   1000 times -->    877.42 Mbps in   13676.53 usec
+108: 1572867 bytes   1000 times -->    877.31 Mbps in   13678.14 usec
+109: 2097149 bytes   1000 times -->    879.97 Mbps in   18182.31 usec
+110: 2097152 bytes   1000 times -->    880.03 Mbps in   18181.18 usec
+111: 2097155 bytes   1000 times -->    879.94 Mbps in   18183.07 usec
+112: 3145725 bytes   1000 times -->    798.11 Mbps in   30070.90 usec
+113: 3145728 bytes   1000 times -->    801.79 Mbps in   29932.92 usec
+114: 3145731 bytes   1000 times -->    800.48 Mbps in   29981.98 usec
+115: 4194301 bytes   1000 times -->    873.61 Mbps in   36629.57 usec
+116: 4194304 bytes   1000 times -->    876.22 Mbps in   36520.54 usec
+117: 4194307 bytes   1000 times -->    875.79 Mbps in   36538.65 usec
+118: 6291453 bytes   1000 times -->    858.07 Mbps in   55939.52 usec
+119: 6291456 bytes   1000 times -->    861.88 Mbps in   55692.38 usec
+120: 6291459 bytes   1000 times -->    864.07 Mbps in   55551.20 usec
+121: 8388605 bytes   1000 times -->    878.66 Mbps in   72838.52 usec
+122: 8388608 bytes   1000 times -->    878.90 Mbps in   72818.04 usec
+123: 8388611 bytes   1000 times -->    878.69 Mbps in   72835.34 usec
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Finish in 01:55:50--30/01/2018

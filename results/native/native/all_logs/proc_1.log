@@ -1,0 +1,210 @@
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Start in 01:55:50--30/01/2018
+Index 1
+Host: compute1
+
+Array: 9000
+Memory required:  632919K.
+
+
+LINPACK benchmark, Double precision.
+Machine precision:  15 digits.
+Array size 9000 X 9000.
+Average rolled and unrolled performance:
+
+    Reps Time(s) DGEFA   DGESL  OVERHEAD    KFLOPS
+----------------------------------------------------
+       1 188.63  99.67%   0.06%   0.27%  646300.185
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Finish in 01:58:58--30/01/2018
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Start in 02:11:22--30/01/2018
+Index 2
+Host: compute1
+
+Array: 9000
+Memory required:  632919K.
+
+
+LINPACK benchmark, Double precision.
+Machine precision:  15 digits.
+Array size 9000 X 9000.
+Average rolled and unrolled performance:
+
+    Reps Time(s) DGEFA   DGESL  OVERHEAD    KFLOPS
+----------------------------------------------------
+       1 188.61  99.68%   0.06%   0.27%  646345.363
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Finish in 02:14:30--30/01/2018
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Start in 02:26:47--30/01/2018
+Index 3
+Host: compute1
+
+Array: 9000
+Memory required:  632919K.
+
+
+LINPACK benchmark, Double precision.
+Machine precision:  15 digits.
+Array size 9000 X 9000.
+Average rolled and unrolled performance:
+
+    Reps Time(s) DGEFA   DGESL  OVERHEAD    KFLOPS
+----------------------------------------------------
+       1 188.62  99.67%   0.06%   0.27%  646298.738
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Finish in 02:29:55--30/01/2018
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Start in 02:42:31--30/01/2018
+Index 4
+Host: compute1
+
+Array: 9000
+Memory required:  632919K.
+
+
+LINPACK benchmark, Double precision.
+Machine precision:  15 digits.
+Array size 9000 X 9000.
+Average rolled and unrolled performance:
+
+    Reps Time(s) DGEFA   DGESL  OVERHEAD    KFLOPS
+----------------------------------------------------
+       1 188.62  99.67%   0.06%   0.27%  646305.565
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Finish in 02:45:40--30/01/2018
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Start in 02:58:18--30/01/2018
+Index 5
+Host: compute1
+
+Array: 9000
+Memory required:  632919K.
+
+
+LINPACK benchmark, Double precision.
+Machine precision:  15 digits.
+Array size 9000 X 9000.
+Average rolled and unrolled performance:
+
+    Reps Time(s) DGEFA   DGESL  OVERHEAD    KFLOPS
+----------------------------------------------------
+       1 188.60  99.67%   0.06%   0.27%  646386.495
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Finish in 03:01:27--30/01/2018
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Start in 03:13:55--30/01/2018
+Index 6
+Host: compute1
+
+Array: 9000
+Memory required:  632919K.
+
+
+LINPACK benchmark, Double precision.
+Machine precision:  15 digits.
+Array size 9000 X 9000.
+Average rolled and unrolled performance:
+
+    Reps Time(s) DGEFA   DGESL  OVERHEAD    KFLOPS
+----------------------------------------------------
+       1 188.60  99.67%   0.06%   0.27%  646400.826
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Finish in 03:17:03--30/01/2018
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Start in 03:29:30--30/01/2018
+Index 7
+Host: compute1
+
+Array: 9000
+Memory required:  632919K.
+
+
+LINPACK benchmark, Double precision.
+Machine precision:  15 digits.
+Array size 9000 X 9000.
+Average rolled and unrolled performance:
+
+    Reps Time(s) DGEFA   DGESL  OVERHEAD    KFLOPS
+----------------------------------------------------
+       1 188.61  99.67%   0.06%   0.27%  646369.681
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Finish in 03:32:39--30/01/2018
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Start in 03:44:56--30/01/2018
+Index 8
+Host: compute1
+
+Array: 9000
+Memory required:  632919K.
+
+
+LINPACK benchmark, Double precision.
+Machine precision:  15 digits.
+Array size 9000 X 9000.
+Average rolled and unrolled performance:
+
+    Reps Time(s) DGEFA   DGESL  OVERHEAD    KFLOPS
+----------------------------------------------------
+       1 188.60  99.67%   0.06%   0.27%  646390.155
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Finish in 03:48:05--30/01/2018
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Start in 04:00:35--30/01/2018
+Index 9
+Host: compute1
+
+Array: 9000
+Memory required:  632919K.
+
+
+LINPACK benchmark, Double precision.
+Machine precision:  15 digits.
+Array size 9000 X 9000.
+Average rolled and unrolled performance:
+
+    Reps Time(s) DGEFA   DGESL  OVERHEAD    KFLOPS
+----------------------------------------------------
+       1 188.61  99.68%   0.06%   0.27%  646327.887
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Finish in 04:03:43--30/01/2018
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Start in 04:16:23--30/01/2018
+Index 10
+Host: compute1
+
+Array: 9000
+Memory required:  632919K.
+
+
+LINPACK benchmark, Double precision.
+Machine precision:  15 digits.
+Array size 9000 X 9000.
+Average rolled and unrolled performance:
+
+    Reps Time(s) DGEFA   DGESL  OVERHEAD    KFLOPS
+----------------------------------------------------
+       1 188.61  99.68%   0.06%   0.27%  646338.267
+
+
+-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-/-
+Finish in 04:19:31--30/01/2018
